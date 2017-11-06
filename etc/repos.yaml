@@ -287,11 +287,14 @@ libcurl: https://github.com/lsst/libcurl.git
 meas_extensions_astrometryNet: https://github.com/lsst/meas_extensions_astrometryNet.git
 daf_fmt_mysql: https://github.com/lsst/daf_fmt_mysql
 daf_fmt_swift: https://github.com/lsst/daf_fmt_swift
+daf_fmt_s3: https://github.com/lsst/daf_fmt_s3
 libatomic_ops: https://github.com/lsst-dm/libatomic_ops
 libunwind: https://github.com/lsst-dm/libunwind
 igprof: https://github.com/lsst-dm/igprof
 libyaml: https://github.com/lsst/libyaml
 python_swiftclient: https://github.com/lsst/python_swiftclient
+python_boto3: https://github.com/lsst/python_boto3
+python_moto: https://github.com/lsst/python_moto
 marshmallow: https://github.com/lsst/marshmallow
 ci_ctio0m9:
   url: https://github.com/lsst/ci_ctio0m9.git
@@ -312,3 +315,7 @@ flake8: https://github.com/lsst/flake8.git
 python_coverage: https://github.com/lsst/python_coverage.git
 pytest_cov: https://github.com/lsst/pytest_cov.git
 pep8_naming: https://github.com/lsst/pep8_naming.git
+cerberus: https://github.com/lsst/cerberus/
+obs_comCam: https://github.com/lsst/obs_comCam.git
+testdata_deblender: https://github.com/lsst/testdata_deblender.git
+synpipe: https://github.com/lsst/synpipe.git
