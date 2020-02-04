@@ -65,9 +65,7 @@ pex_policy: https://github.com/HyperSuprime-Cam/pex_policy.git
 pipe_base: https://github.com/HyperSuprime-Cam/pipe_base.git
 pipe_drivers: https://github.com/HyperSuprime-Cam/pipe_drivers.git
 pipe_tasks: https://github.com/HyperSuprime-Cam/pipe_tasks.git
-proxmin:
-  ref: lsst-dev
-  url: https://github.com/HyperSuprime-Cam/proxmin.git
+proxmin: https://github.com/HyperSuprime-Cam/proxmin.git
 psfex: https://github.com/HyperSuprime-Cam/psfex.git
 pybind11: https://github.com/HyperSuprime-Cam/pybind11.git
 pycodestyle: https://github.com/HyperSuprime-Cam/pycodestyle.git
@@ -88,9 +86,7 @@ python_psutil: https://github.com/HyperSuprime-Cam/python_psutil.git
 python_py: https://github.com/HyperSuprime-Cam/python_py.git
 pyyaml: https://github.com/HyperSuprime-Cam/pyyaml.git
 requests: https://github.com/HyperSuprime-Cam/requests.git
-scarlet:
-  ref: lsst-dev
-  url: https://github.com/HyperSuprime-Cam/scarlet.git
+scarlet: https://github.com/HyperSuprime-Cam/scarlet.git
 scipy: https://github.com/HyperSuprime-Cam/scipy.git
 scons: https://github.com/HyperSuprime-Cam/scons.git
 sconsUtils: https://github.com/HyperSuprime-Cam/sconsUtils.git
