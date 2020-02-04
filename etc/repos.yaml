@@ -49,7 +49,6 @@ meas_extensions_psfex: https://github.com/HyperSuprime-Cam/meas_extensions_psfex
 meas_extensions_shapeHSM: https://github.com/HyperSuprime-Cam/meas_extensions_shapeHSM.git
 meas_extensions_simpleShape: https://github.com/HyperSuprime-Cam/meas_extensions_simpleShape.git
 meas_modelfit: https://github.com/HyperSuprime-Cam/meas_modelfit.git
-meas_mosaic: https://github.com/HyperSuprime-Cam-dm/legacy-meas_mosaic.git
 minuit2: https://github.com/HyperSuprime-Cam/minuit2.git
 mpi: https://github.com/HyperSuprime-Cam/mpi.git
 mpi4py: https://github.com/HyperSuprime-Cam/mpi4py.git
