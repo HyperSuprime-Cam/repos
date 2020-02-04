@@ -18,7 +18,7 @@ ctrl_pool: https://github.com/HyperSuprime-Cam/ctrl_pool.git
 daf_base: https://github.com/HyperSuprime-Cam/daf_base.git
 daf_butler: https://github.com/HyperSuprime-Cam/daf_butler
 daf_persistence: https://github.com/HyperSuprime-Cam/daf_persistence.git
-dax_ppdb: https://github.com/HyperSuprime-Cam/dax_apdb.git
+dax_apdb: https://github.com/HyperSuprime-Cam/dax_apdb.git
 display_ds9: https://github.com/HyperSuprime-Cam/display_ds9.git
 display_matplotlib: https://github.com/HyperSuprime-Cam/display_matplotlib.git
 doxygen: https://github.com/HyperSuprime-Cam/doxygen.git
