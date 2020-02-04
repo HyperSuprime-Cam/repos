@@ -110,3 +110,4 @@ xpa: https://github.com/HyperSuprime-Cam/xpa.git
 hscPipe: https://github.com/HyperSuprime-Cam/hscPipe.git
 obs_test_data: https://github.com/HyperSuprime-Cam/obs_test_data.git
 obs_subaru_data: https://github.com/HyperSuprime-Cam/obs_subaru_data.git
+meas_extensions_scarlet: https://github.com/HyperSuprime-Cam/meas_extensions_scarlet.git
