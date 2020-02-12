@@ -109,3 +109,7 @@ meas_extensions_scarlet: https://github.com/HyperSuprime-Cam/meas_extensions_sca
 verify_metrics: https://github.com/HyperSuprime-Cam/verify_metrics.git
 autograd: https://github.com/HyperSuprime-Cam/autograd.git
 lsst: https://github.com/HyperSuprime-Cam/lsst.git
+fgcm:
+  url: https://github.com/HyperSuprime-Cam/fgcm.git
+  ref: lsst-dev
+fgcmcal: https://github.com/HyperSuprime-Cam/fgcmcal.git
