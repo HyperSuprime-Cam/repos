@@ -113,3 +113,4 @@ fgcm:
   url: https://github.com/HyperSuprime-Cam/fgcm.git
   ref: lsst-dev
 fgcmcal: https://github.com/HyperSuprime-Cam/fgcmcal.git
+healpy: https://github.com/HyperSuprime-Cam/healpy.git
